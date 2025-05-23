@@ -1,0 +1,36 @@
+// Цвета
+$white: #FFFFFF;
+$primary-brown: #A64E00;
+$primary-teal: #015D65;
+$primary-gold: #A67100;
+$primary-blue: #0C2770;
+
+// Основные цвета
+$primary-color: $primary-brown;
+$secondary-color: $primary-teal;
+$accent-color: $primary-gold;
+$text-primary: $primary-blue;
+$text-secondary: #666666;
+
+// Дополнительные цвета
+$blue: $primary-blue;
+$cyan: $primary-teal;
+$red: #e53935;
+$gray: #666666;
+$light-gray: #f5f5f5;
+
+// Шрифты
+$font-primary: 'Roboto', Arial, sans-serif;
+$font-heading: 'Montserrat', Arial, sans-serif;
+
+// Размеры
+$container-max-width: 1200px;
+$border-radius: 8px;
+$spacing-unit: 1rem;
+
+// Тени
+$box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+// Брейкпоинты
+$breakpoint-tablet: 768px;
+$breakpoint-mobile: 480px; 
